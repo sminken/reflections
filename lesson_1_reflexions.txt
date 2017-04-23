@@ -1,0 +1,25 @@
+I did a lot of work trying this out. When I started it was quite difficult for me to enter the gitt bash installed and get sublime text working. That is why I started the command line tutorial first. Now I feel a little bit more confortable navigating the bash environment. Getting the differences was not hard. Now I have a working version control folder working so that is great.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It easy to get back to a working former file or to add back things that were deleted. So it is never necesary to do the same work twice.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+It is good that the versions have  logical changes. Otherwise the code coude contain a lot of errors. The commits are realy handy to check what changes have been made. The downside is that one needs to be very thoughtfull about keeping the changes in a structured manner manualy.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+For coding there wil be lots of changes in files that belong together, like .html .css .js. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+With git log I can view the commits in the repository like asteroids. Then looking at the commits, I can compare two files by git diff old and newId.  For color I can use the command: git config --global color.ui auto.
+
+How might using version control make you more confident to make changes that could break something?
+
+Because you know it is always possible to return to a working version, it is not possible to mess up the whole project. So it is possible to make some risky changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I would first like to use it to finish this course. After I have some understanding I would like to work with it for my developer courses online  and my own projects.

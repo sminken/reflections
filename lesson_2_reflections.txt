@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A directory will be tracked by git. Git has to know what files to track in order to track the changes made.
