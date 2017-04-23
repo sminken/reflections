@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A directory will be tracked by git. Git has to know what files to track in order to track the changes made.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area contains only files with that are changed with logical commits. Before adding them to the repository it is possible to check whether you realy want to send these logical commits.
