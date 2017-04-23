@@ -5,3 +5,7 @@ A directory will be tracked by git. Git has to know what files to track in order
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area contains only files with that are changed with logical commits. Before adding them to the repository it is possible to check whether you realy want to send these logical commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Because we have to give one comment it is important is is one logical change
